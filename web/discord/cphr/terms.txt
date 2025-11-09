@@ -1,0 +1,45 @@
+Privacy Policy
+
+1. Introduction
+We are committed to protecting your privacy while keeping our operational costs low,
+    because we're not data-hungry vampires.
+    This policy explains our data practices for the Discord Application and all related services (the "Service").
+
+2. Information We Collect
+We strive to collect as little as possible.
+
+Non-PII: We may collect Non-PII needed for the Service to work, like your Discord User ID,
+    Server ID, and virtual identities (e.g., game character names).
+No Real PII: We do not intentionally request or store real-world PII (real name, address, etc.). We don't want it.
+
+3. User-Submitted PII
+If you voluntarily provide real-world PII in any free-form text field, you do so at your own risk.
+    We make reasonable security attempts but assume no responsibility or liability for it.
+    Seriously, why would you do that?
+
+4. Data Storage and Deletion
+To keep costs low, our data retention is minimal. We are big fans of the 'delete' key.
+
+Unmanaged Data: Data from inactive accounts may be permanently deleted at any time without notice to manage costs.
+    This includes data not vital to another user's subscription. All deletions are unrecoverable.
+Audit Data: Audit artifacts (e.g., images) may be processed for metadata, and the original artifact deleted.
+    The metadata then becomes "Unmanaged Data" and is subject to deletion.
+    This data is a privilege, not a right, and may be deleted without notice, even during an active subscription.
+    Poof. Gone.
+
+5. How We Use Information
+We use collected info solely to operate, maintain, and provide the Service.
+    We do not sell or share your information, except as required by law.
+
+Your interaction with Discord is governed by their policies. We are not responsible for Discord's data practices.
+    That's a "you and them" problem.
+
+6. Data Security
+We implement reasonable security, but no system is 100% secure. We can't guarantee absolute security.
+    We're not Fort Knox. If we learn of a significant security issue, we'll make a reasonable effort to inform you.
+    Our liability is limited as defined in our Terms of Service (to $0.00, remember?).
+
+7. Changes to This Policy
+We may update this policy at any time, which you'll probably read just as closely.
+
+8. Contact Us For sensitive disclosures or questions, contact the developer via Discord.

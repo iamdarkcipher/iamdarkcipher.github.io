@@ -1,0 +1,53 @@
+Terms of Service
+
+1. Acceptance of Terms
+By using our Discord App and all related content (collectively, the "Service"), you agree to these Terms of
+    Service ("Terms"). If you disagree, don't use the Service. Seriously.
+
+2. The Service "The Service" is provided "AS IS" and "AS AVAILABLE" - legal speak for "it is what it is".
+    We disclaim all warranties, express or implied. We don't guarantee it will be uninterrupted, error-free, or secure.
+    If it breaks, you get both pieces.
+
+3. Intellectual Property
+All code, assets, IP, and content (the "IP") are ours.
+You get a limited, non-exclusive, non-transferable, revocable license to use the Service as intended.
+Don't steal our stuff.
+
+4. Restrictions on Use
+You are explicitly prohibited from:
+    Reverse-engineering, decompiling, or trying to discover the source code. Just use it.
+    Scraping, data mining, or extracting data or content.
+    Using the Service, its data, or IP for any AI training or derivative works. This clause overrides "fair use" or any other excuse your robot army can think of.
+    Using the Service for any illegal purpose. Behave.
+
+5. Limitation of Liability
+Our favorite part:
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE ARE NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+    CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING LOSS OF PROFITS, DATA, ETC.) FROM:
+
+    YOUR USE OR INABILITY TO USE THE SERVICE;
+    UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS;
+    ANY INTERRUPTION OR CESSATION OF THE SERVICE;
+    ANY BUGS, VIRUSES, OR TROJAN HORSES (we hope not, but we're covered);
+    ANY DATA LOSS, INCLUDING AUDIT DATA, REGARDLESS OF SUBSCRIPTION.
+
+YOU AGREE OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS IS ZERO ($0.00) DOLLARS. Yes, a crisp zero.
+
+6. Data and Subscriptions
+Data (receipts, logs, etc.) is "best effort" because low costs are our jam.
+    Access is a privilege, not a right. We can delete any data, anytime, without notice, even if you pay.
+    Deletions are final. See the Privacy Policy for gory details.
+
+7. Indemnification
+If your actions get us sued, you agree to defend, indemnify, and hold us harmless. In short: you break it, you buy it.
+
+8. Termination
+We can terminate or suspend your access anytime, for any reason, without notice. Don't test us.
+
+9. Governing Law
+These Terms are governed by the laws of England and Wales. The boring legal part.
+
+10. Changes to Terms
+We can modify these Terms anytime. Your continued use of the Service means you accept the changes.
+
+11. Contact For legal notices or sensitive disclosures, contact the developer via Discord.
