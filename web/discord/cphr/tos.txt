@@ -1,0 +1,185 @@
+Terms of Service
+
+PREFACE: THE NECESSARY EVIL
+Welcome to the legal text.
+We know you want to skip this, but we can't let you in unless you agree to the rules.
+We've tried to make this readable, but where the "Plain English" explanation conflicts with the "Legal Text",
+    the Legal Text wins.
+
+1. ACCEPTANCE OF TERMS
+By accessing or using the application and all related content (collectively, the "Service"), you acknowledge
+    that you have read, understood, and agree to be bound by these Terms of Service ("Terms").
+Using the Service constitutes a binding legal agreement.
+If you do not agree to these Terms, you must immediately cease all use of the Service.
+By using, you agree. No take-backs.
+
+2. DISCLAIMER OF WARRANTIES ("AS IS")
+The Service is provided on an "AS IS" and "AS AVAILABLE" basis, without warranties of any kind, either express or
+    implied, including but not limited to warranties of merchantability, fitness for a particular purpose,
+    or non-infringement.
+We do not warrant that the Service will be uninterrupted, error-free, or secure.
+Furthermore, we do not guarantee the accuracy of any game data, stats, calculations, or trade logs.
+If you trade your spaceship based on our math and it turns out we forgot to carry the one, that is on you.
+Do not make financial decisions based on a Discord bot.
+We promise nothing. If it breaks, you get both pieces.
+
+3. ELIGIBILITY AND PARENTAL SUPERVISION
+You must be at least 13 years of age (or older if required by digital consent laws in your jurisdiction) to use this Service.
+If you are under the age of 18, you represent and warrant that you have obtained verifiable consent from a parent or
+    legal guardian.
+The responsibility for monitoring usage lies entirely with the parent or guardian.
+We aren't paid enough to babysit. If you are 12, go play outside.
+If you are 14 and drain your parents' credit card, that is a 'them' problem, not an 'us' problem.
+
+4. THIRD-PARTY PLATFORMS
+This Service operates within and relies upon third-party platforms, including but not limited to Discord.
+Your use of the Service is subject to the respective Terms of Service and Privacy Policies of these third parties.
+We make reasonable efforts to comply with third-party policies, but we explicitly disclaim all liability for any and
+    all interactions, disputes, data loss, bans, or issues of any kind arising from your relationship with or use of
+    these third-party platforms.
+This includes situations where an upstream API change (eg from Discord or CIG) causes our bot to malfunction, spam your
+    server, or delete data.
+We dance to their tune, and sometimes they change the song without telling us.
+We accept no liability for third-party service interruptions, policy changes, or account restrictions.
+If Discord bans you, don't cry to us. We don't have the keys to their castle.
+
+5. INTELLECTUAL PROPERTY & LICENSE
+a) Ownership: All rights, title, and interest in and to the Service, including but not limited to code, assets, and
+    proprietary content, remain our exclusive property.
+   You are granted a limited, revocable, non-exclusive license to use the Service in accordance with these Terms.
+b) User Content: You retain ownership of content you submit (e.g., logs, messages, images, metadata).
+   By submitting such content, you grant us a worldwide, royalty-free, perpetual license (subject to your deletion
+    rights under our Privacy Policy) to use, display, and modify said content solely for the purpose of operating
+    the Service.
+   You represent and warrant that any content you upload is not illegal, obscene, hateful, radioactive or otherwise
+    violates any terms of our dependent platforms.
+   If you upload something that gets the MI5 knocking on our door, you agree to indemnify us for the therapy costs.
+   We need these permissions just to display your username on screen without getting sued, as an example.
+c) Feedback: Any suggestions, feature requests, or feedback provided regarding the Service may be used by us without
+    obligation or compensation to you.
+   Ideas are free; code costs money. Don't expect royalties just for suggesting dark mode.
+
+6. COPYRIGHT INFRINGEMENT NOTICES
+We respect the intellectual property rights of others.
+If you believe that any material available on or through the Service infringes upon any copyright you own or control,
+    please immediately notify us with a detailed description of the alleged infringement.
+We will respond to valid, written notices of alleged infringement.
+Formal disclosures get handled. Caps-lock rants in #general get muted.
+
+7. RESTRICTIONS ON USE
+You agree not to engage in any of the following prohibited activities:
+    a) Reverse-engineering, decompiling, or attempting to derive source code from the Service. Just use it.
+    b) Scraping, data mining, or extracting data via any method, protocol, or interface other than the official user
+        interface or explicitly documented APIs.
+       This includes accessing the Service at a rate or purpose that exceeds normal human usage.
+    c) Using the Service, its data, or IP for any AI training or derivative works. This clause overrides "fair use" or any
+        other excuse your robot army can think of.
+    d) Using the Service for any unlawful or unauthorized purpose.
+It's a Discord bot, not the Enigma machine. Find something better to do.
+
+8. MANDATORY LIABILITY (STATUTORY RIGHTS)
+Nothing in these Terms shall exclude or limit our liability for death or personal injury caused by our negligence,
+    for fraud or fraudulent misrepresentation, or for any other liability that cannot be excluded or limited under the
+    laws of England and Wales.
+If our code literally explodes and hurts you, and the law says that's on us, fair enough.
+
+9. EXCLUSION OF CONSEQUENTIAL DAMAGES
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+    CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES
+    ARISING FROM, INCLUDING BUT NOT LIMITED TO:
+
+a) YOUR USE OR INABILITY TO USE THE SERVICE;
+b) UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE;
+c) UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS;
+d) ANY INTERRUPTION OR CESSATION OF THE SERVICE;
+e) ANY BUGS, VIRUSES, OR TROJAN HORSES (we hope not, but just so we're covered);
+f) ANY DATA LOSS, INCLUDING AUDIT DATA, REGARDLESS OF SUBSCRIPTION.
+e) Selling, renting, leasing, transferring, or giving access to your account or data to any third party, regardless of
+    whether such transfer is voluntary or involuntary (e.g., due to scams, lack of 2FA, or poor security practices).
+   You are solely responsible for protecting your account.
+
+We aren't liable for side effects. Depression caused by our dark mode is tragic, but not actionable.
+
+10. VOLUNTARY ASSUMPTION OF RISK
+You expressly waive any claim of liability against us for damages arising from your continued use of the Service during
+    periods of known vulnerability, including but not limited to high-profile security disclosures or
+    publicised exploits.
+If the news says we are on fire and you log in anyway, that is entirely on you.
+
+11. LIMITATION OF LIABILITY (CAP)
+In the event that we are found liable for any direct damages not otherwise excluded by these Terms, our total
+    cumulative liability to you for all claims arising out of or relating to the Service shall not exceed the
+    greater of:
+
+    a) Fifty British Pounds Sterling (£50.00 GBP); or
+    b) the lesser of what you paid for the affected period or the total amount paid by you to us for use of the Service
+        during the three (3) months immediately preceding the event giving rise to the claim.
+For a free app, fifty quid is generous. Don't spend it all at once.
+
+12. FORCE MAJEURE
+We shall not be liable for any failure to perform our obligations where such failure results from causes beyond our
+    reasonable control, including but not limited to mechanical, electronic, or communications failure, acts of God,
+    or third-party API outages.
+When sharks (or Rus*cough*sia) eat the internet cables, or the Discord API goes down (again), it's not our fault.
+
+13. DATA RETENTION AND MANAGEMENT
+All data storage is provided on a "best effort" basis.
+We reserve the right to delete, archive, or modify user data at any time without prior notice to manage operational
+    costs or performance.
+We're cheapskates. Low costs are our jam. If you want permanent storage, buy a hard drive.
+
+14. PAID SUBSCRIPTIONS
+If applicable, payment for subscriptions does not constitute a guarantee of data retention or immunity from moderation.
+All fees are non-refundable unless required by law.
+Your wallet is welcome, but immortality is permanently out of stock.
+
+15. INDEMNIFICATION
+You agree to defend, indemnify, and hold us harmless from and against any claims, damages, obligations, losses,
+    liabilities, costs, and expenses arising from your violation of these Terms or your use of the Service.
+If you do something stupid that gets us sued, you're paying our legal bills.
+
+16. TERMINATION
+We reserve the right to terminate or suspend your access to the Service immediately, without prior notice or liability,
+    for any reason whatsoever, including without limitation if you breach the Terms.
+We have a ban hammer and we aren't afraid to use it. Don't test us.
+
+17. DISPUTE RESOLUTION (CLASS ACTION WAIVER)
+To the fullest extend permitted by applicable law, disputes shall be resolved solely on an individual basis.
+You explicitly waive your right to participate as a plaintiff or class member in any purported class, consolidated,
+    or representative action.
+1v1 me. No raid parties in court.
+
+18. GOVERNING LAW AND JURISDICTION
+These Terms shall be governed by and construed in accordance with the laws of England and Wales.
+You agree to submit to the exclusive jurisdiction of the courts located in London, United Kingdom.
+Tea, crumpets, and the High Court of Justice. Pack an umbrella.
+
+19. SURVIVAL
+Upon termination, all provisions of these Terms which by their nature should survive will survive, including, without
+    limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
+Even if you leave (or we ban you), these rules haunt you forever.
+
+20. SEVERABILITY
+If any provision of these Terms is held to be invalid or unenforceable, such provision will be modified to the minimum
+    extent necessary to make it enforceable, and the remaining provisions will remain in full force and effect.
+If a judge nerfs one rule, the rest doesn't crumble like a dry cookie.
+
+21. ENTIRE AGREEMENT
+These Terms constitute the entire agreement between you and us regarding the Service and supersede all prior or
+    contemporaneous agreements, understandings, or representations, whether written or oral.
+Screenshots of promises made at 3 AM in #general don't count.
+
+22. ASSIGNMENT
+You may not assign or transfer these Terms, by operation of law or otherwise, without our prior written consent.
+We may assign or transfer these Terms, at our sole discretion, without restriction.
+We can sell the bot. You can't sell your account.
+
+23. MODIFICATIONS
+We reserve the right to modify these Terms at any time.
+We will attempt to provide notice of significant changes via the Discord server.
+Your continued use of the Service constitutes acceptance of the new Terms.
+We'll ping @everyone. You'll ignore it. We'll update the rules anyway. The cycle of life.
+
+24. CONTACT
+Legal notices and sensitive disclosures must be directed to the developer.
+Slide into our DMs... professionally.

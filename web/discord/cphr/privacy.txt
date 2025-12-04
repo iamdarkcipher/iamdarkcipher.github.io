@@ -1,53 +1,62 @@
-Terms of Service
+Privacy Policy
 
-1. Acceptance of Terms
-By using our Discord App and all related content (collectively, the "Service"), you agree to these Terms of
-    Service ("Terms"). If you disagree, don't use the Service. Seriously.
+PREFACE
+We are committed to protecting your privacy while keeping our operational costs low, because we're not data-hungry
+    vampires.
+This policy explains our data practices for the Discord Application and all related services (the "Service").
 
-2. The Service "The Service" is provided "AS IS" and "AS AVAILABLE" - legal speak for "it is what it is".
-    We disclaim all warranties, express or implied. We don't guarantee it will be uninterrupted, error-free, or secure.
-    If it breaks, you get both pieces.
+INFORMATION WE COLLECT
+We strive to collect as little as possible.
+Non-PII: We collect technical data needed for the Service to work, like your Discord User ID, Server ID, command logs,
+    and virtual identities (e.g., game character names/stats).
+No Real PII: We do not intentionally request or store real-world Personally Identifiable Information (real name, home
+    address, etc.). We don't want it.
 
-3. Intellectual Property
-All code, assets, IP, and content (the "IP") are ours.
-You get a limited, non-exclusive, non-transferable, revocable license to use the Service as intended.
-Don't steal our stuff.
+LEGAL BASIS FOR PROCESSING (THE WHY)
+Under the UK GDPR, we process your data based on:
+    a) Contractual Necessity: We need your ID to know who you are so the bot can actually reply to you.
+        Without this, the Service doesn't work.
+    b) Legitimate Interest: We log errors and usage to keep the bot from crashing and to ban bad actors.
 
-4. Restrictions on Use
-You are explicitly prohibited from:
-    Reverse-engineering, decompiling, or trying to discover the source code. Just use it.
-    Scraping, data mining, or extracting data or content.
-    Using the Service, its data, or IP for any AI training or derivative works. This clause overrides "fair use" or any other excuse your robot army can think of.
-    Using the Service for any illegal purpose. Behave.
+USER-SUBMITTED DATA
+If you voluntarily provide real-world PII in any free-form text field (like a bio or command argument), you do so at
+    your own risk.
+We make reasonable security attempts but assume no responsibility or liability for it.
+Seriously, why would you do that?
 
-5. Limitation of Liability
-Our favorite part:
-TO THE FULLEST EXTENT PERMITTED BY LAW, WE ARE NOT LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-    CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING LOSS OF PROFITS, DATA, ETC.) FROM:
+DATA STORAGE AND DELETION
+To keep costs low, our data retention is minimal. We are big fans of the 'delete' key.
+    a) Unmanaged Data: Data from inactive accounts or old logs may be permanently deleted at any time without notice
+        primarily to manage costs.
+    b) Audit Data: Images or large artifacts may be processed for metadata, and the original deleted immediately
+        primarily to manage costs.
+This data is a privilege, not a right. We may purge it without notice. Poof. Gone.
 
-    YOUR USE OR INABILITY TO USE THE SERVICE;
-    UNAUTHORIZED ACCESS TO OR USE OF OUR SERVERS;
-    ANY INTERRUPTION OR CESSATION OF THE SERVICE;
-    ANY BUGS, VIRUSES, OR TROJAN HORSES (we hope not, but we're covered);
-    ANY DATA LOSS, INCLUDING AUDIT DATA, REGARDLESS OF SUBSCRIPTION.
+HOW WE USE & SHARE INFORMATION
+We use collected info solely to operate, maintain, and provide the Service.
+    a) Third-Party APIs: We transmit data to third-party platforms to make the bot work.
+        This includes Discord (obviously) and game APIs like Cloud Imperium Games (CIG).
+        We do not control how they handle your data once it leaves our hands.
+    b) International Transfers: Since Discord is global, your data may travel outside the UK/EEA.
+        By using the bot, you accept that your data might go on a holiday to a server farm in Virginia.
+Your interaction with Discord is governed by their policies. That's a "you and them" problem.
 
-YOU AGREE OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS IS ZERO ($0.00) DOLLARS. Yes, a crisp zero.
+DATA SECURITY & LIABILITY
+We implement best-effort security, but no system is 100% secure. We're not Fort Knox.
+If we learn of a significant security issue, we'll make a best-effort attempt to inform you.
+However, our liability for any data breach or loss is strictly limited as defined in our Terms of Service (Section 11).
+For the record: That cap is the greater of £50.00 GBP or the lesser of what you paid for the affected period vs. 3
+    months' fees. Don't plan your retirement on suing us.
 
-6. Data and Subscriptions
-Data (receipts, logs, etc.) is "best effort" because low costs are our jam.
-    Access is a privilege, not a right. We can delete any data, anytime, without notice, even if you pay.
-    Deletions are final. See the Privacy Policy for gory details.
+YOUR RIGHTS (GDPR/UK DATA LAWS)
+Under UK law, you have rights. Here is how we handle them:
+Right to Access: Your data is available directly via the API or user commands. That is everything we have.
+Right to Erasure: Self-service via API/commands. Note: Deleting essential data (like User ID) effectively deletes your account.
+Right to Rectification: If data is wrong, run the update command again.
+Right to Complain: You have the right to lodge a complaint with the Information Commissioner's Office (ICO) if you
+    think we are mishandling your data. (We'd prefer you yell at us first so we can fix it, but you do you).
+To exercise these rights (other than self-service), contact us. We usually process requests faster than a government bureaucracy.
 
-7. Indemnification
-If your actions get us sued, you agree to defend, indemnify, and hold us harmless. In short: you break it, you buy it.
-
-8. Termination
-We can terminate or suspend your access anytime, for any reason, without notice. Don't test us.
-
-9. Governing Law
-These Terms are governed by the laws of England and Wales. The boring legal part.
-
-10. Changes to Terms
-We can modify these Terms anytime. Your continued use of the Service means you accept the changes.
-
-11. Contact For legal notices or sensitive disclosures, contact the developer via Discord.
+CHANGES TO THIS POLICY
+We may update this policy at any time.
+We'll try to announce it in the Discord server, but let's be honest, which you'll probably read just as closely.
